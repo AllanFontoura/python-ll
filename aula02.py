@@ -33,6 +33,9 @@ for rodada in range(1, total_de_tentativas + 1):
     else:
         print("Não foi dessa vez. ERROU!")
 
+#for mais indicado para percorrer listas
+        
+        
 
 
 
